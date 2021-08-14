@@ -1,11 +1,9 @@
 # terraform-aws-101
 Terraform with AWS
 
-This Terraform file provisions an EC2 instance on AWS, installs apache2 and clones a static website hosted on GitHub
-
-ACCESS_KEY & SECRET_KEY are being kep on a separate file <i>terraform.tfvars</i>
-
 ## TF -> AWS
+Terraform file provisions an EC2 instance on AWS, installs apache2 and clones a static website hosted on GitHub  
+ACCESS_KEY & SECRET_KEY are being kep on a separate file <i>terraform.tfvars</i>
 ![screenshot](/github/TF-AWS.png)
 - VPC  
 - SUBNET  
