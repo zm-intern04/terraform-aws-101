@@ -5,7 +5,8 @@ This Terraform file provisions an EC2 instance on AWS, installs apache2 and clon
 
 ACCESS_KEY & SECRET_KEY are being kep on a separate file <i>terraform.tfvars</i>
 
-## Resources
+## TF -> AWS
+![screenshot](/github/TF-AWS.png)
 - VPC  
 - SUBNET  
 - INTERNET GATEWAY  
